@@ -1,0 +1,3 @@
+A und D zum Rotieren
+Auf Feinde klicken um diese zu zerstören(4 mal)
+F um einen Turret zu platzieren
